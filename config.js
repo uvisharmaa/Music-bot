@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxx',
+        token: 'MTI1MDc5NDg2OTIONTQ4MTAzMg Gt212X.5UxanXn_VhOUy4huy/YL0BLpUsW1sAVAptzsKo',
         playing: 'by the Community ❤️',
         global: true,
-        guild: 'xxx',
+        guild: '1232414518932406292',
         extraMessages: false,
         loopMessage: false,
         lang: 'en',
